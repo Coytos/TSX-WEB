@@ -399,9 +399,15 @@
 											<tr><td>Mafia</td><td>Documents secrets</td><td>5 000$RP</td><td>Vous devrez vous rendre dans la villa PvP pour voler des documents secret et retournez dans votre planque pour les déposer.</td></tr>
 											<tr><td>Mafia</td><td>Traffic illégal</td><td>5 000$RP.</td><td>Durant cette quête vous devez vous introduire dans le commissariat jusqu'au distributeur d'arme et en voler le plus possible !</td></tr>
 											<tr><td>Mafia</td><td>Braquage des distributeurs</td><td>x</td><td>Dans cette quête votre objectif sera de crocheter tout les distributeurs présent dans les métro</td></tr>
-											<tr><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-											<tr><td>x</td><td>x</td><td>x</td><td>x</td></tr>
+											<tr><td>Mercenaire</td><td>Le justicier masqué</td>2 500$RP<td></td>Dans cette quête vous aurez 12h tué le plus grand freekiller
+											Cette quête ce présentera comme un contrat classique.<td>x</td></tr>
+											<tr><td>Mercenaire</td><td>Le justicier masqué<td><td>2 500$RP</td><td>Cette quête sera disponible que quand il y a un recherché tribunal. Vous devrez allé la prendre et tué le recherché en question, quand la personne sera tué, elle sera tp dans la cellule du tribunal./td></tr>
+											<tr><td>Police</td><td>Suivez le lapin blanc</td><td>5 000$RP</td><td>Pourchasser le tueur en série, jusqu'à ce qu'il commette un meurtre. Ensuite, arrête le.</td></tr>
+											<tr><td>Police</td><td>Surveillance renforcé</td><td>x</td><td>Surveillez la prison. Pendant les prochaines 24h. 35$ pour chaque 10 minute passée à surveiller les prisonniers.</td></tr>
+												<tr></tr><td>Police</td><td>Non a la contrebande</td><td>x</td><td>Tazer un maximum d'objets illégaux en ville. Pendant les 24 prochaines heures.</td></td></tr>
+
 										</table>
+										
 										<br />
 								</div>
 							</div>
